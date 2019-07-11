@@ -1,0 +1,107 @@
+\t (00:00:02) allegro 17.2 S038 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Wed Jul 10 23:42:44 2019
+\t (00:00:02)         Host=USER-PC User=user Pid=1548 CPUs=4
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ex2_rlc
+\d (00:00:04) Design opened: C:/Users/user/Desktop/work/allegro/ex2_rlc.brd
+\i (00:00:04) trapsize 509
+\i (00:00:04) trapsize 535
+\i (00:00:04) trapsize 509
+\i (00:00:04) trapsize 509
+\i (00:00:04) trapsize 369
+\i (00:00:04) trapsize 509
+\i (00:00:04) trapsize 530
+\i (00:00:04) trapsize 552
+\i (00:00:04) trapsize 390
+\i (00:00:05) generaledit 
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 27.999 20.303
+\i (00:00:05) trapsize 195
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 27.999 20.303
+\i (00:00:05) trapsize 98
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 27.999 20.303
+\i (00:00:05) trapsize 49
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 27.999 20.303
+\i (00:00:06) trapsize 24
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 27.999 20.303
+\i (00:00:06) trapsize 49
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 28.000 20.303
+\i (00:00:06) trapsize 98
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 28.000 20.304
+\i (00:00:06) trapsize 195
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 28.001 20.303
+\i (00:00:06) trapsize 390
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 28.001 20.303
+\i (00:00:06) trapsize 781
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 28.000 20.304
+\i (00:00:06) trapsize 1562
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 67.738 55.691
+\i (00:00:07) trapsize 781
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 67.738 55.692
+\i (00:00:07) trapsize 390
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 48.063 58.113
+\i (00:00:08) trapsize 781
+\i (00:00:08) roam start
+\i (00:00:08) roam x -112
+\i (00:00:08) roam y 80
+\i (00:00:08) roam x -32
+\i (00:00:08) roam y 16
+\i (00:00:08) roam x -48
+\i (00:00:08) roam y 16
+\i (00:00:09) roam x -32
+\i (00:00:09) roam x -48
+\i (00:00:09) roam y 32
+\i (00:00:09) roam x -32
+\i (00:00:09) roam y 16
+\i (00:00:09) roam end
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 8.401 32.450
+\i (00:00:09) trapsize 390
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 8.402 32.450
+\i (00:00:10) trapsize 195
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 8.402 32.450
+\i (00:00:10) trapsize 390
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 8.401 32.450
+\i (00:00:10) trapsize 781
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 8.400 32.450
+\i (00:00:10) trapsize 390
+\i (00:00:16) new 
+\i (00:01:03) newdrawfillin "ggg.brd" "Board"
+\t (00:01:03)     Journal end - Wed Jul 10 23:43:45 2019
